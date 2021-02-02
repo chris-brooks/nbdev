@@ -1,4 +1,5 @@
 # nbdev template
+![CI](https://github.com/chris-brooks/nbdev/workflows/CI/badge.svg)
 
 Use this template to more easily create your [nbdev](https://nbdev.fast.ai/) project.
 
